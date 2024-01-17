@@ -1,0 +1,15 @@
+[
+  { "IDHuyen": 2, "TenHuyen": "Thành phố Quảng Ngãi" },
+  { "IDHuyen": 3, "TenHuyen": "Huyện Bình Sơn" },
+  { "IDHuyen": 4, "TenHuyen": "Thị Xã Đức Phổ" },
+  { "IDHuyen": 5, "TenHuyen": "Huyện Minh Long" },
+  { "IDHuyen": 6, "TenHuyen": "Huyện Mộ Đức" },
+  { "IDHuyen": 7, "TenHuyen": "Huyện Lý Sơn" },
+  { "IDHuyen": 8, "TenHuyen": "Huyện Tư Nghĩa" },
+  { "IDHuyen": 9, "TenHuyen": "Huyện Trà Bồng" },
+  { "IDHuyen": 11, "TenHuyen": "Huyện Sơn Tịnh" },
+  { "IDHuyen": 12, "TenHuyen": "Huyện Sơn Tây" },
+  { "IDHuyen": 13, "TenHuyen": "Huyện Sơn Hà" },
+  { "IDHuyen": 14, "TenHuyen": "Huyện Nghĩa Hành" },
+  { "IDHuyen": 15, "TenHuyen": "Huyện Ba Tơ" }
+]
