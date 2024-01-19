@@ -30,6 +30,7 @@ async function main() {
       `https://csdlpcttapi.nuian.vn/api/tramdomua/${maTramAPI}`
     );
     saveData(data, maTramAPI);
+    console.log(data);
   }
 }
 
