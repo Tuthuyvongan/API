@@ -9,8 +9,12 @@ async function fetchData(url) {
 }
 
 async function saveData(data, filename) {
+  // const filePath = path.join(
+  //   "C:/Users/S4T/Documents/GitHub/API/tramdomua",
+  //   `${filename}.json`
+  // );
   const filePath = path.join(
-    "C:/Users/S4T/Documents/GitHub/API/tramdomua",
+    "C:/Users/Thu/OneDrive/Documents/GitHub/API/tramdomua",
     `${filename}.json`
   );
   fs.writeFileSync(filePath, JSON.stringify(data));
