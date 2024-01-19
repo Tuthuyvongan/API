@@ -1,181 +1,5 @@
 [
   {
-    "MaTramAPI": "84335634176",
-    "TenTramDoMua": "Sơn Cao",
-    "GhiChu": "UBND xã Sơn Cao - Huyện Sơn Hà",
-    "ToaDo": "14.990731;108.548508",
-    "LuongMuaTong": 0.200000002980232,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325029753",
-    "TenTramDoMua": "Hồ Nước Trong",
-    "GhiChu": "Nhà quản lý hồ Nước Trong - ",
-    "ToaDo": "15.077778;108.414722",
-    "LuongMuaTong": 0.200000002980232,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "841625355877",
-    "TenTramDoMua": "Thanh An",
-    "GhiChu": "UBND Xã Thanh An - Huyện Minh Long",
-    "ToaDo": "14.921278;108.689361",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84329501824",
-    "TenTramDoMua": "Trà Thanh",
-    "GhiChu": "UBND xã Trà Thanh - Huyện Trà Bồng",
-    "ToaDo": "15.271111;108.351944",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325014692",
-    "TenTramDoMua": "Bình An",
-    "GhiChu": "UBND xã Bình An - Huyện Bình Sơn",
-    "ToaDo": "15.322344;108.587837",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325036612",
-    "TenTramDoMua": "Sơn Trà",
-    "GhiChu": "UBND xã Sơn Trà - Huyện Trà Bồng",
-    "ToaDo": "15.205143;108.32757",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84934725902",
-    "TenTramDoMua": "Hồ Cây Xoài",
-    "GhiChu": "Hồ Cây Xoài - ",
-    "ToaDo": "14.678611;109.042222",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84354965884",
-    "TenTramDoMua": "Hành Dũng",
-    "GhiChu": "UBND xã Hành Dũng - Huyện Nghĩa Hành",
-    "ToaDo": "15.045278;108.745278",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84326507941",
-    "TenTramDoMua": "Hồ Tôn Dung",
-    "GhiChu": "Hồ Tôn Dung - ",
-    "ToaDo": "14.755556;108.738889",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84397485806",
-    "TenTramDoMua": "Bình Khương",
-    "GhiChu": "UBND xã Bình Khương - Huyện Bình Sơn",
-    "ToaDo": "15.313611;108.686944",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84397476310",
-    "TenTramDoMua": "Ba Điền",
-    "GhiChu": "Công an xã Ba Điền - Huyện Ba Tơ",
-    "ToaDo": "14.8625;108.663889",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84332699304",
-    "TenTramDoMua": "Hương Trà",
-    "GhiChu": "UBND xã Hương Trà - Huyện Trà Bồng",
-    "ToaDo": "15.19095;108.408517",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325355746",
-    "TenTramDoMua": "Ba Lế",
-    "GhiChu": "UBND xã Ba Lế - Huyện Ba Tơ",
-    "ToaDo": "14.636805;108.658705",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325075771",
-    "TenTramDoMua": "Sơn Bua",
-    "GhiChu": "UBND xã Sơn Bua - Huyện Sơn Tây",
-    "ToaDo": "15.06824;108.30071",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84328649807",
-    "TenTramDoMua": "Bình Trị",
-    "GhiChu": "UBND xã Bình Trị - Huyện Bình Sơn",
-    "ToaDo": "15.335772;108.833841",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84326895381",
-    "TenTramDoMua": "Hồ Hóc Sầm",
-    "GhiChu": "Hồ Hóc Sầm - ",
-    "ToaDo": "14.925556;108.840278",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84362213542",
-    "TenTramDoMua": "Đầu mối HCN Liệt Sơn",
-    "GhiChu": "Đập đầu mối hồ chứa nước Liệt Sơn - Thị Xã Đức Phổ",
-    "ToaDo": "14.754959;108.943874",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84325355625",
-    "TenTramDoMua": "Long Sơn",
-    "GhiChu": "UBND xã Long Sơn - Huyện Minh Long",
-    "ToaDo": "15.003972;108.718611",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84326907461",
-    "TenTramDoMua": "Hồ Lỗ Lá",
-    "GhiChu": "Hồ Lỗ Lá - ",
-    "ToaDo": "14.796944;108.901944",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84329503267",
-    "TenTramDoMua": "Hồ Hố Cả",
-    "GhiChu": "Hồ Hố Cả - ",
-    "ToaDo": "14.988056;108.765278",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84397483909",
-    "TenTramDoMua": "Trà Phú",
-    "GhiChu": "UBND xã Trà Phú - Huyện Trà Bồng",
-    "ToaDo": "15.251389;108.581389",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
-    "MaTramAPI": "84328671928",
-    "TenTramDoMua": "Văn phòng thường trực",
-    "GhiChu": "Ban chỉ huy PCTT và TKCN tỉnh Quảng Ngãi - Thành phố Quảng Ngãi",
-    "ToaDo": "15.13275;108.802222",
-    "LuongMuaTong": 0.0,
-    "ThoiGianDo": "0001-01-01T00:00:00"
-  },
-  {
     "MaTramAPI": "84332712675",
     "TenTramDoMua": "Sơn Hải",
     "GhiChu": "UBND xã Sơn Hải - Huyện Sơn Hà",
@@ -612,6 +436,182 @@
     "TenTramDoMua": "Lưu vực hồ Diên Trường",
     "GhiChu": "Lưu vực Diên Trường, xã Phổ Khánh - Thị Xã Đức Phổ",
     "ToaDo": "14.705;109.012778",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84335634176",
+    "TenTramDoMua": "Sơn Cao",
+    "GhiChu": "UBND xã Sơn Cao - Huyện Sơn Hà",
+    "ToaDo": "14.990731;108.548508",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325355746",
+    "TenTramDoMua": "Ba Lế",
+    "GhiChu": "UBND xã Ba Lế - Huyện Ba Tơ",
+    "ToaDo": "14.636805;108.658705",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325075771",
+    "TenTramDoMua": "Sơn Bua",
+    "GhiChu": "UBND xã Sơn Bua - Huyện Sơn Tây",
+    "ToaDo": "15.06824;108.30071",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84328649807",
+    "TenTramDoMua": "Bình Trị",
+    "GhiChu": "UBND xã Bình Trị - Huyện Bình Sơn",
+    "ToaDo": "15.335772;108.833841",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84326895381",
+    "TenTramDoMua": "Hồ Hóc Sầm",
+    "GhiChu": "Hồ Hóc Sầm - ",
+    "ToaDo": "14.925556;108.840278",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84362213542",
+    "TenTramDoMua": "Đầu mối HCN Liệt Sơn",
+    "GhiChu": "Đập đầu mối hồ chứa nước Liệt Sơn - Thị Xã Đức Phổ",
+    "ToaDo": "14.754959;108.943874",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325355625",
+    "TenTramDoMua": "Long Sơn",
+    "GhiChu": "UBND xã Long Sơn - Huyện Minh Long",
+    "ToaDo": "15.003972;108.718611",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84326907461",
+    "TenTramDoMua": "Hồ Lỗ Lá",
+    "GhiChu": "Hồ Lỗ Lá - ",
+    "ToaDo": "14.796944;108.901944",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84329503267",
+    "TenTramDoMua": "Hồ Hố Cả",
+    "GhiChu": "Hồ Hố Cả - ",
+    "ToaDo": "14.988056;108.765278",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84397483909",
+    "TenTramDoMua": "Trà Phú",
+    "GhiChu": "UBND xã Trà Phú - Huyện Trà Bồng",
+    "ToaDo": "15.251389;108.581389",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84328671928",
+    "TenTramDoMua": "Văn phòng thường trực",
+    "GhiChu": "Ban chỉ huy PCTT và TKCN tỉnh Quảng Ngãi - Thành phố Quảng Ngãi",
+    "ToaDo": "15.13275;108.802222",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325029753",
+    "TenTramDoMua": "Hồ Nước Trong",
+    "GhiChu": "Nhà quản lý hồ Nước Trong - ",
+    "ToaDo": "15.077778;108.414722",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "841625355877",
+    "TenTramDoMua": "Thanh An",
+    "GhiChu": "UBND Xã Thanh An - Huyện Minh Long",
+    "ToaDo": "14.921278;108.689361",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84329501824",
+    "TenTramDoMua": "Trà Thanh",
+    "GhiChu": "UBND xã Trà Thanh - Huyện Trà Bồng",
+    "ToaDo": "15.271111;108.351944",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325014692",
+    "TenTramDoMua": "Bình An",
+    "GhiChu": "UBND xã Bình An - Huyện Bình Sơn",
+    "ToaDo": "15.322344;108.587837",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84325036612",
+    "TenTramDoMua": "Sơn Trà",
+    "GhiChu": "UBND xã Sơn Trà - Huyện Trà Bồng",
+    "ToaDo": "15.205143;108.32757",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84934725902",
+    "TenTramDoMua": "Hồ Cây Xoài",
+    "GhiChu": "Hồ Cây Xoài - ",
+    "ToaDo": "14.678611;109.042222",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84354965884",
+    "TenTramDoMua": "Hành Dũng",
+    "GhiChu": "UBND xã Hành Dũng - Huyện Nghĩa Hành",
+    "ToaDo": "15.045278;108.745278",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84326507941",
+    "TenTramDoMua": "Hồ Tôn Dung",
+    "GhiChu": "Hồ Tôn Dung - ",
+    "ToaDo": "14.755556;108.738889",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84397485806",
+    "TenTramDoMua": "Bình Khương",
+    "GhiChu": "UBND xã Bình Khương - Huyện Bình Sơn",
+    "ToaDo": "15.313611;108.686944",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84397476310",
+    "TenTramDoMua": "Ba Điền",
+    "GhiChu": "Công an xã Ba Điền - Huyện Ba Tơ",
+    "ToaDo": "14.8625;108.663889",
+    "LuongMuaTong": 0.0,
+    "ThoiGianDo": "0001-01-01T00:00:00"
+  },
+  {
+    "MaTramAPI": "84332699304",
+    "TenTramDoMua": "Hương Trà",
+    "GhiChu": "UBND xã Hương Trà - Huyện Trà Bồng",
+    "ToaDo": "15.19095;108.408517",
     "LuongMuaTong": 0.0,
     "ThoiGianDo": "0001-01-01T00:00:00"
   }
