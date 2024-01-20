@@ -8,13 +8,10 @@ async function fetchData(url) {
   return data;
 }
 
-async function saveData(data, filename) {
-  // const filePath = path.join(
-  //   "C:/Users/S4T/Documents/GitHub/API/tramdomua",
-  //   `${filename}.json`
-  // );
+async function saveData(data, filename, folder = "") {
   const filePath = path.join(
-    "C:/Users/Thu/OneDrive/Documents/GitHub/API/tramdomua",
+    "C:/Users/Thu/OneDrive/Documents/GitHub/API",
+    folder,
     `${filename}.json`
   );
   fs.writeFileSync(filePath, JSON.stringify(data));
@@ -26,12 +23,11 @@ async function main() {
 
   for (const item of initialData) {
     const maTramAPI = item.MaTramAPI;
-    const data = await fetchData(
-      `https://csdlpcttapi.nuian.vn/api/tramdomua/${maTramAPI}`
-    );
-    saveData(data, maTramAPI);
-    // console.log(data);
+    const data = await fetchData(`${url}/${maTramAPI}`);
+    saveData(data, maTramAPI, "tramdomua");
   }
+
+  saveData(initialData, "tramdomua");
 }
 
 main();
