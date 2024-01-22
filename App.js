@@ -10,7 +10,7 @@ async function fetchData(url) {
 
 async function saveData(data, filename, folder = "") {
   const filePath = path.join(
-    "C:/Users/Thu/OneDrive/Documents/GitHub/API",
+    "C:/Users/S4T/Documents/GitHub/API",
     folder,
     `${filename}.json`
   );
